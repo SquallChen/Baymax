@@ -1,5 +1,5 @@
 body{
-    background:#ccc url(1.jpg);
+    background:radial-gradient(#d1d2c9,#b4b2ac);
     display: flex;
     justify-content: center;
     align-items: center;
